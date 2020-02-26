@@ -1,0 +1,1 @@
+from stest import stest
