@@ -2,7 +2,7 @@
 
 ![](https://github.com/katieb1/stest/workflows/build/badge.svg) [![codecov](https://codecov.io/gh/katieb1/stest/branch/master/graph/badge.svg)](https://codecov.io/gh/katieb1/stest) ![Release](https://github.com/katieb1/stest/workflows/Release/badge.svg)
 
-[![Documentation Status](https://readthedocs.org/projects/stest/badge/?version=latest)](https://stestkb.readthedocs.io/en/latest/?badge=latest)
+[![Documentation Status](https://readthedocs.org/projects/stestkb/badge/?version=latest)](https://stestkb.readthedocs.io/en/latest/?badge=latest)
 
 testing python package creation
 
